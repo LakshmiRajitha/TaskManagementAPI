@@ -1,0 +1,20 @@
+[
+  {
+    "TaskID": 1,
+    "TaskName": "Create a Dashboard",
+    "Description": "Display Products List in the Dashboard",
+    "Deadline": "3/1/2023"
+  },
+  {
+    "TaskID": 2,
+    "TaskName": "Create Mobile Header",
+    "Description": "Implement Header component in UI",
+    "Deadline": "4/1/2023"
+  },
+  {
+    "TaskID": 3,
+    "TaskName": "Add Weather App Alert",
+    "Description": "Add App alarm for changed weather events",
+    "Deadline": "4/21/2023"
+  }
+]
